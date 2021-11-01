@@ -41,7 +41,6 @@ transcript.json - records for transactions, offers received, offers viewed, and 
 
 
 #conclusion  
-
 ------------------------------------------
 Evaluating the Female Demography
 ------------------------------------------
