@@ -40,7 +40,7 @@ profile.json - demographic data for each customer
 transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 
-#conclusion  
+# Conclusion  
 ------------------------------------------
 Evaluating the Female Demography
 ------------------------------------------
