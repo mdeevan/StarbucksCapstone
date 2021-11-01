@@ -57,54 +57,51 @@ Evaluating the Female Demography
  [ 21  24  25  26  31  33  36  40  41  43  44  45  47  48  49  50  51  52  53  54  57  60  61  63  64  65  66  67  68  69  71  72  73  74  76  78
   79  80  81  83  84  85  86  87  88  89  90  91  92  93  94  96  98  99 100] 
  
-**Female - send informational offer  to the 29 out of 84 age group **
+**Female - send informational offer  to the 29 out of 84 age group **  
  [ 18  19  20  22  23  27  28  29  30  32  34  35  37  38  39  42  46  55  56  58  59  62  70  75  77  82  95  97 101] 
  
 ------------------------------------------
 Evaluating the Male Demography
 ------------------------------------------
 
-Male - send bogo offer to the 28 out of 83 age group 
+**Male - send bogo offer to the 28 out of 83 age group**   
  [21 23 34 36 37 39 41 42 44 46 48 52 53 54 59 61 62 73 75 80 83 86 88 89
  92 95 97 99] 
  
-Male - send discount offer to the 55 out of 83 age group 
+**Male - send discount offer to the 55 out of 83 age group**   
  [ 18  19  20  22  24  25  26  27  28  29  30  31  32  33  35  38  40  43
   45  47  49  50  51  55  56  57  58  60  63  64  65  66  67  68  69  70
   71  72  74  76  77  78  79  81  82  84  85  87  90  91  93  94  96  98
  100] 
  
-Male - send any, bogo or discount offer to the 0 out of 83 age group 
- [] 
- 
-Male - dont send informational offer to the 65 out of 83 age group 
+**Male - dont send informational offer to the 65 out of 83 age group**   
  [ 18  20  23  24  25  28  29  31  32  34  35  36  37  38  39  41  42  43
   44  45  46  47  48  49  50  51  52  53  55  56  59  60  61  62  63  64
   65  66  67  68  69  70  71  72  73  74  75  76  79  80  81  82  84  86
   88  89  90  91  93  94  95  96  97  99 100] 
  
-Male - send informational offer  to the 18 out of 83 age group 
+**Male - send informational offer  to the 18 out of 83 age group**   
  [19 21 22 26 27 30 33 40 54 57 58 77 78 83 85 87 92 98] 
  
 ------------------------------------------
 Evaluating the Other Demography
 ------------------------------------------
 
-Other - send bogo offer to the 30 out of 66 age group 
+**Other - send bogo offer to the 30 out of 66 age group**   
  [22 24 25 26 28 35 36 38 39 40 42 43 44 45 47 50 53 54 55 56 67 69 70 71
  73 75 77 81 82 85] 
  
-Other - send discount offer to the 31 out of 66 age group 
+**Other - send discount offer to the 31 out of 66 age group**  
  [20 21 30 31 32 33 34 37 41 46 48 49 51 52 57 58 59 60 61 62 63 64 66 68
  74 76 79 84 89 90 92] 
  
-Other - send any, bogo or discount offer to the 5 out of 66 age group 
+**Other - send any, bogo or discount offer to the 5 out of 66 age group**  
  [ 29  65  72  80 100] 
  
-Other - dont send informational offer to the 47 out of 66 age group 
+**Other - dont send informational offer to the 47 out of 66 age group**  
  [ 20  21  24  25  26  29  30  32  33  34  35  36  37  38  39  40  42  44
   45  47  48  50  51  52  53  54  56  57  60  63  64  65  66  69  71  72
   74  75  79  80  81  82  85  89  90  92 100] 
  
-Other - send informational offer  to the 19 out of 66 age group 
+**Other - send informational offer  to the 19 out of 66 age group**   
  [22 28 31 41 43 46 49 55 58 59 61 62 67 68 70 73 76 77 84] 
