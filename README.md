@@ -17,13 +17,16 @@ You'll be given transactional data showing user purchases made on the app includ
 Keep in mind as well that someone using the app might make a purchase through the app without having received an offer or seen an offer.  
 
 **#Libraries used**  
-pandas  
-numpy  
 math  
 datetime  
 json  
 matplotlib  
 seaborn (v 0.11.2) 
+pandas 0.23.3, 
+seaborn 0.11.2, 
+numpy 1.19.5, 
+sklearn 0.24.2, 
+python 3.6.3
 
 execute following lines to get the latest version  
 `import sys`  
