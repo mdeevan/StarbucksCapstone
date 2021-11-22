@@ -1,5 +1,6 @@
 # StarbucksCapstone
-Udacity - Starbucks Capstone Project
+Udacity - Starbucks Capstone Project   
+Medium post link:  https://medium.com/@mnaveed_35293/capstone-starbucks-f5dd9cf94910
 
 # Project Introduction:  
   
@@ -21,19 +22,19 @@ math
 datetime  
 json  
 matplotlib  
-seaborn (v 0.11.2) 
-pandas 0.23.3, 
-seaborn 0.11.2, 
-numpy 1.19.5, 
-sklearn 0.24.2, 
-python 3.6.3
+seaborn (v 0.11.2)  
+pandas 0.23.3,   
+seaborn 0.11.2,   
+numpy 1.19.5,   
+sklearn 0.24.2,   
+python 3.6.3   
 
-# Must Haves
-execute following lines to get the latest version, and then restart the Kernel
-Without these or newer version, the seaborn graphs will fail and there will be warning in the machine-learning algorithms
-`import sys`  
-`# !{sys.executable} -m pip install seaborn==0.11.2
-`# !{sys.executable} -m pip install -U scikit-learn
+# Must Haves  
+execute following lines to get the latest version, and then restart the Kernel  
+Without these or newer version, the seaborn graphs will fail and there will be warning in the machine-learning algorithms  
+`import sys`     
+`# !{sys.executable} -m pip install seaborn==0.11.2`  
+`# !{sys.executable} -m pip install -U scikit-learn`  
 
 
 # Data files
